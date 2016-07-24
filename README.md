@@ -1,5 +1,3 @@
-# Presentations
-
 ## List of the presentations I have given:
   - July 23, 2016 - Iowa Code Camp: [Troubleshoot Like a Boss](https://github.com/ryandoll/troubleshoot-like-a-boss)
   - December 5, 2015 - Iowa Code Camp: [Performance Budgets and Website Optimizations](http://slides.com/ryandoll/performance-budgets)
